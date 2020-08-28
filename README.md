@@ -1,4 +1,4 @@
-### Hi, I'm Carmen 👋
+# Hi, I'm Carmen 👋
 
 I'm currently pursuing my Computer Engineering degree with a Business minor at the University of Toronto.
 
