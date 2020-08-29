@@ -15,4 +15,6 @@ I like tech because it has the power to bring people together to solve unique pr
 
 ### Further Ways to Connect - but no pressure!
 Check out my [Linkedin](https://www.linkedin.com/in/carmen-hsieh-368659157/) <br/>
-Send me an email at carmen.hsieh@mail.utoronto.ca
+Send me an email at carmen.hsieh@mail.utoronto.ca <br/>
+<br/>
+Uploaded are some mini projects, [Ask me](carmen.hsieh@mail.utoronto.ca) about group or work projects!
