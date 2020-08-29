@@ -1,9 +1,16 @@
 # Hi, I'm Carmen 👋
 
 I'm currently pursuing my Computer Engineering degree with a Business minor at the University of Toronto.
-In my free time, I enjoy: playing badminton and skiing with friends, taking long walks in the ravine, breaking down and 
-visualizing problems using hand-drawn diagrams, and listening to loud music after a long day.
+I like tech because it has the power to bring people together to solve unique problems in a creative and highly efficient way. 
 <br/>
+<br/>
+
+### In my free time, I enjoy:
+⛷️ Playing badminton and skiing with friends <br/>
+🏞️ Taking long walks in the ravine <br/>
+💡 Breaking down and visualizing problems using hand-drawn diagrams <br/>
+🎶 Listening to loud music after a long day <br/>
+🏌️‍♀️🛩️ Learning new skills <br/>
 <br/>
 
 ### Further Ways to Connect - but no pressure!
